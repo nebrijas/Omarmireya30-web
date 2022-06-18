@@ -1,5 +1,8 @@
-# Actividad Dirigida 1 
-# Analisis reportaje: *Del cuerno de rinoceronte al guacamayo: Así opera en España el mercado negro de animales protegidos que sobrevive a la pandemia*
+# Repositorio de trabajo del módulo de Periodismo de Datos II
+
+Esta actividad consiste en analizar datos 
+
+# Visualización de datos 
   El reportaje que habla sobre el tráfico de animales exóticos vivos, muertos y en partes me parece que recoge una radiografía de la actividad, con una variedad de datos ordenados en orden cronológico sobre cómo se desarrolla el ilícito y cómo ha ido aumentando desde el 2015 hasta el 2021. 
 
 Además, recoge relatos de quienes se encargan de perseguir este delito, que dan testimonio de cómo ha evolucionado la investigación, partiendo desde que antes no había cooperación entre las naciones, sin embargo, ahora esto ha cambiado, **existe comunicación y cooperación entre las naciones de Europa en la lucha contra el delito.**
@@ -15,3 +18,8 @@ Es importante mencionar que el reportaje hace una división de mercados para la 
  También me gustaría resaltar la comparación que hace la periodista entre **el mercado ilícito de especies protegidas y el tráfico de drogas, ya que aunque generan ganancias similares**, las penas para castigar el tráfico de animales son relativamente bajas e incluso muchas veces transcurre mucho tiempo para lograr la condena de los imputados. 
  
  El trabajo, además cuenta con el resaltado de textos importantes, la hipervinculación con contenidos oficiales donde se pueden verificar algunos de los datos expuestos. Dicho esto, considero que se pudo haber hipervinculizado más documentos e informes de donde se obtuvieron los datos para que las personas pudieran interactuar o revisar a mayor detalle. 
+
+## Actividades dirigidas 
+
+-[Actividad dirigida 1](ad1.md)
+-[Actividad dirigida 2](ad2.md)
