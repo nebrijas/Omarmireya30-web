@@ -11,4 +11,4 @@ Esta actividad consiste en analizar datos
 
 -[Actividad dirigida 2](ad2.md)
 
--[Actividad dirigida 2](aad3.md)
+-[Actividad dirigida 3](aad3..ipynb)
