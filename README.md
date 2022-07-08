@@ -21,4 +21,4 @@ Dicho esto presento las actividades realizadas.
 
 -[Actividad dirigida 4 en ipynb](add4.ipynb)
 
--[Actividad dirigida 4 en md](add4..md)
+-[Actividad dirigida 4 en md](add4.md)
