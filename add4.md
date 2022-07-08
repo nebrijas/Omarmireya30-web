@@ -3885,7 +3885,7 @@ df_ca.plot(title="Comparativa del COVID19 Centroamerica", logy=True)
 
 
 El grafico que obtuvimos al plotear todos los países de Centroamérica, podemos ver el comportamiento del virus desde el 2021 hasta julio del 2022. 
-Según los datos reportados, Honduras y Panamá serian los países menos afectados por el virus. Mientras que Costa Rica, Guatemala y El Salvador parecen ser los más afectados. 
+Según los datos reportados, Honduras sería el país menos afectados por el virus. Mientras que Costa Rica, Guatemala, Panamá y El Salvador parecen ser los más afectados. 
 También vemos que hay una falta de data en Nicaragua, por lo que no se puede determinar la evolución de la enfermedad en este país. 
 
 
