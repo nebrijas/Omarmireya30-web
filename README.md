@@ -12,6 +12,8 @@ En este repositorio se guardan todas las actividades realizadas durante el curso
 
 -[Actividad dirigida 4](add4.md)
 
+## ¿Qué aprendimos?  
+
 En esta materia se aprendió a usar la **sintaxis Markdown** en el repositorio de *GitHub*, ambos desconocidos para mi personas. Además, aprendimos a usar *Jupiter* con el lenguaje **Phyton** para escrapear datos de páginas web, cómo extraerlos y presentarlos tanto en tabla como en gráficos. 
 
 Los que no teníamos conocimientos en el uso de terminales para verificar el estado de nuestra PC, en este módulo adquirimos los conocimientos básicos.
