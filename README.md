@@ -8,9 +8,9 @@ Los que no teníamos conocimientos en el uso de terminales para verificar el est
 
 En este sentido puedo mencionar que aprendimos a usar la interfaz del ordenador empleando el ***Git Bash*** para clonar el repositorio [Omarmireya30-web](https://nebrijas.github.io/Omarmireya30-web/) usando el comando **pw** y posteriormente **git clone**
 
-![Clonacion del repositorio con git bash](final.jpg)
+![Clonacion del repositorio con git bash](final.png)
 
-Algunos de los comandos que se usaron fueron
+## Algunos de los comandos que se usaron fueron
 
 - pwd: Se usa para imprimir el directorio de trabajo
 
