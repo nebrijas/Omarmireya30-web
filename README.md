@@ -30,7 +30,7 @@ En Jupyter importamos e instalamos las librerias de **Phyton** conocimos sobre e
 
 Algunas dificultades que enfrenté fue el no encontra el directorio cuando ingresaba el pwd, sin embargo, esto se solucionó usando el comando ***dir*** y posteriormente haciendo el llamado al directorio, para continuar con las indicaciones del profesor.  
 
-
+![Clonacion del repositorio con git bash](dir.png)
 
 Puedo concluir que la materia **ha sido de gran provecho en el uso de herramientas de búsqueda y visualización de datos** que antes no conocíamos y ahora podremos poner en práctica. 
 
